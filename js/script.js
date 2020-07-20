@@ -91,7 +91,7 @@ $(window).scroll(function(){
 			setTimeout(function(){
 				$('.daftar .kiri').eq(i).addClass('muncul');
 			}, 300 * (i+1));
-		});	
+		});
 	};
 
 	// navigasi
