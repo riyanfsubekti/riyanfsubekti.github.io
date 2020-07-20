@@ -51,6 +51,9 @@ table {
 /* MY CSS */
 
 /*HALAMAN PUBLIK*/
+span{
+  font-weight: 600;
+}
 body{
   overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
