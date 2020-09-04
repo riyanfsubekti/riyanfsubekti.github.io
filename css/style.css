@@ -429,6 +429,7 @@ padding: 0;
 .kontak img{
   width: 15px;
   height: 15px;
+  margin-bottom: -4px;
 }
 .kontak ul li a:hover{
   content: '';
