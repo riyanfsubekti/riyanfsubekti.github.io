@@ -581,7 +581,7 @@ footer a:hover{
     display: block;
   }
   .kontak ul li{
-  font-size: 1em;
+  font-size: 0.8em;
   }
   .kontak img{
     width: 20px;
@@ -687,6 +687,9 @@ footer a:hover{
     .tentang h2{
       font-size: 32px;
     }
+    .tentang p, .tentang ul li, .tentang ul span, .kontak ul li{
+    font-size: 1em;
+    } 
 
     .pramuka img{
       max-width: 200px;
