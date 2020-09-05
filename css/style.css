@@ -84,8 +84,8 @@ section.tentang, section.kontak, section.galeri{
 /* Jumbotron */
 .jumbotron{
     height: 100vh;
-    background-image: url(../img/lg/lg1.png);
-    background-size: fill;
+    background-image: url(../img/bg/1.jpg);
+    background-size: cover;
     object-fit: cover;
     background-position: center;
     text-align: center;
